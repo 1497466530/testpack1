@@ -1,0 +1,23 @@
+{
+  "name": "testpack1",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1497466530/testpack1.git"
+  },
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "author": "Yueming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1497466530/testpack1/issues"
+  },
+  "homepage": "https://github.com/1497466530/testpack1#readme"
+}
